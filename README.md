@@ -8,6 +8,6 @@ ML - Machine Learning Project
 
 SQL - SQL Project 
 
-EXCEL - Microsoft Excel
+EXCEL - Microsoft Excel Project
 
-DA - Data Analytics 
+DA - Data Analytics Project
